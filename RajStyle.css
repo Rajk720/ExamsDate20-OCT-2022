@@ -1,0 +1,22 @@
+ /* CSS CODE   */
+
+.gradient-custom-3 {
+  
+    background: #8a894a;
+    
+    
+    background: -webkit-linear-gradient(to right, rgba(132, 250, 175, 0.34), rgba(151, 157, 160, 0.5));
+    
+  
+    background: linear-gradient(to right, rgba(39, 41, 40, 0.5), rgba(79, 86, 90, 0.5))
+    }
+    .gradient-custom-4 {
+   
+    background: #84fab0;
+    
+   
+    background: -webkit-linear-gradient(to right, rgb(9, 132, 54), rgb(120, 123, 125));
+    
+    
+    background: linear-gradient(to right, rgb(3, 39, 16), rgb(15, 113, 161))
+    }
